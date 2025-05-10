@@ -38,7 +38,7 @@ Use this toolkit to:
 
 ## 📄 Download the Toolkit
 
-- 📥 [Download the Copywriting Toolkit (Google Docs)](INSERT-GOOGLE-DOCS-LINK-HERE)  
+- 📥 [Download the Copywriting Toolkit (Google Docs)](https://docs.google.com/document/d/11auOGZOjTP1tPHvNuYsgw4HGDncDQ4XF/edit?usp=drivesdk&ouid=103397443694918508550&rtpof=true&sd=true)  
 - 📁 Or [Download the .docx Version](./Prompt_Copywriting_Toolkit_Portfolio_Edition.docx)
 
 ---
@@ -54,4 +54,3 @@ I help brands, freelancers, and startups create smart content systems that conve
 ---
 
 > _"Good copy doesn’t just sell. It connects. And now, AI makes it faster than ever."_  
-
